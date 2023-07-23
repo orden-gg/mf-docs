@@ -18,7 +18,7 @@ You play as a ghost in a dark, murky forest. Your goal is to survive, explore, a
 * `Capture the territory` to earn resources during the round&#x20;
 * `Castles` serve as non-combat zones for resource trading and artifact crafting. Castle owners collect the trading fees and participate in global economical game&#x20;
 * two types of game assets: permanent (aavegotchi characters, items, alchemica) and in-round (artifacts, resources)&#x20;
-* ~~redacted~~ GLTR use case&#x20;
+* ~~redacted~~ Alchemica and GLTR use case&#x20;
 
 The game is built on top of assets from [aavegothi.com](https://aavegothi.com) assets, using the [mud.dev](https://mud.dev/) framework
 
