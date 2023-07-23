@@ -24,5 +24,6 @@ The game is built on top of assets from [aavegothi.com](https://aavegothi.com) a
 
 ### state of the on-chain games (summer 2023)&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://twitter.com/skystrifeHQ">https://twitter.com/skystrifeHQ</a> on-chain RTS, build on MUD2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://twitter.com/skystrifeHQ">https://twitter.com/skystrifeHQ</a> on-chain RTS, build on MUD2 (mid 2023)</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>the dark forest (mid 2021) <a href="https://zkga.me/">https://zkga.me/</a></p></figcaption></figure>
